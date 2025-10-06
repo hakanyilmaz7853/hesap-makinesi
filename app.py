@@ -4,6 +4,7 @@ def topla(sayi1, sayi2):
 
 def cikar(sayi1, sayi2):
     sonuc = sayi1 - sayi2
+    a = 1
     return sonuc
 
 while True:
